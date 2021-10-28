@@ -1,6 +1,6 @@
 # Spatial Hearing VR
 
-This project was a class project built in Unity. This is meant to be a VR application designed for tesing an individuals spatial awareness in terms of sound.
+This project was a class group project built in Unity. This is meant to be a VR application designed for tesing an individuals spatial awareness in terms of sound. My team and I worked on this together, yet I own the repo.
 
 The person being tested is standing in the middle of a circle, surrounded by 360 balloons. They will hear a sound in the VR headsets headphones, and wherever they thought the sound was coming from they'd pop the balloon that was in that space.
 
@@ -8,3 +8,5 @@ The test wasn't really about accuracy - it was more about having a general sense
 
 ### PLEASE NOTE
 This code is old and will not work. I would not recommend cloning this project.
+
+This project was archived as it will no longer be maintained - mostly because I don't have a VR headset on my own.
